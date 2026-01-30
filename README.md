@@ -3,7 +3,7 @@
 This project is an example of a security system that uses machine learning to detect and analyze threats in log files. The system features a real-time anomaly detection, attack classification and report.
 
 ## How It's Made:
-Tech used: Python, scikit-learn, Ollama, Rich, NumPy
+Tech used: Python, scikit-learn, Ollama, Rich, NumPy.
 
 ## How It Works:
 * Uses both Machine Learning algorithms and generative AI for hybrid threat detection.
