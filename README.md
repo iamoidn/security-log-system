@@ -5,17 +5,15 @@ This project is an example of a security system that uses machine learning to de
 ## How It's Made:
 Tech used: Python, scikit-learn, Ollama, Rich, NumPy
 
-... write something
-
-
 ## How It Works:
-* Leverages both statistical ML and generative AI for hybrid threat detection.
-* Analyzes web server logs with customizable confidence thresholds.
+* Uses both Machine Learning algorithms and generative AI for hybrid threat detection.
+* Analyzes web server logs with customizable confidence levels.
 * Identifies and classifies specific attack patterns like SQLi, XSS, and path traversal.
-* Generates detailed security reports with actionable recommendations and impact assessments.
+* Generates detailed security reports with recommendations and impact assessments.
 
 ## Example
-
+<img width="901" height="276" alt="image" src="https://github.com/user-attachments/assets/4b50fbef-49f9-4084-8ed3-8837d1c68bbd" />
+<img width="932" height="700" alt="image" src="https://github.com/user-attachments/assets/175d47bf-f203-4d0f-931e-024ca18461ef" />
 
 ## Installation
 1. Clone the repository:
