@@ -18,8 +18,8 @@ Tech used: Python, scikit-learn, Ollama, Rich, NumPy.
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/iamoidn/ai-log-analyzer.git
-cd ai-log-analyzer
+git clone https://github.com/iamoidn/security-log-system.git
+cd security-log-system
 ```
 
 2. Install dependencies:
